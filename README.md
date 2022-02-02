@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**dillondow24/dillondow24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m @dillondow24
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me...
+
+|                | Contact.                                                | 
+| -------------- | ------------------------------------------------------- | 
+| Name           | Dillon Dow                                              | 
+| Title          | Fullstack Software Developer                            |
+| Personal Email | [dillondow24@gmail.com](mailto:dillondow24@gmail.com)   |
+
+### About me
+
+My name is Dillon Dow and I am an enthusiastic developer with two years of experience in a fast-paced start-up environment. The work I have done for my job as a full stack web developer at NextStep HealthTech is in private repositories, but I would be happy to discuss my experience and knowledge.
+
+### 🔭 I’m currently working on...
+
+- [NextStep GoodLife](https://nextstepgoodife.com)
+- [NextStep.Health](https://nextstep.health)
+- [NextStep Bloom](https://nextstepbloom.com)
