@@ -4,7 +4,6 @@
 
 ### 📫 How to reach me...
 
-|                | Contact.                                                | 
 | -------------- | ------------------------------------------------------- | 
 | Name           | Dillon Dow                                              | 
 | Title          | Fullstack Software Developer                            |
