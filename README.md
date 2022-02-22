@@ -22,7 +22,7 @@ My name is Dillon Dow and I am an enthusiastic developer with two years of exper
 -   database: DynamoDB
 
 
-### 🚀 What I just finished working on...
+### 🚀 What I have worked on...
 
 - [NextStep GoodLife](https://nextstepgoodife.com)
 - [NextStep.Health](https://nextstep.health)
